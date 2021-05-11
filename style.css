@@ -1,0 +1,24 @@
+#profilImage {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+
+#somethingAbout {
+  background-color: #e2edff;
+}
+
+#somethingAbout .row {
+  padding-bottom: 2rem;
+}
+
+.contact {
+  padding-bottom: 2rem;
+}
+
+footer {
+  padding: 2rem;
+}
+
+section {
+  padding-top: 5rem;
+}
